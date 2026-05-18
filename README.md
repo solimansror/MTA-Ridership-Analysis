@@ -42,13 +42,13 @@ This project aims to analyze how MTA ridership changed before and after the pand
 ## 📸 Dashboard Preview
 
 ### Post-COVID Overview
-![Overview](screenshots/overview.png)
+![Overview](https://github.com/solimansror/MTA-Ridership-Analysis/blob/c10a6baa9e8c8611aac6cce7bf9e648b50a4fc57/screenshot/overview.PNG)
 
 ### Transportation Analysis
-![Transport](screenshots/transport.png)
+![Transport](https://github.com/solimansror/MTA-Ridership-Analysis/blob/c10a6baa9e8c8611aac6cce7bf9e648b50a4fc57/screenshot/transport.PNG)
 
 ### Recovery Analysis
-![Recovery](screenshots/recovery.png)
+![Recovery](https://github.com/solimansror/MTA-Ridership-Analysis/blob/c10a6baa9e8c8611aac6cce7bf9e648b50a4fc57/screenshot/recovery.PNG)
 
 ---
 
